@@ -6,19 +6,19 @@
 
 ## The project will be divided into parts:
 
-        CRUD operations
-            For meals
-            For users
+        CRUD operations 
+            For meals >> Aml , Malak >>  2/1/2025
+            For users >> Zainab 
         2 APIs
-              For users
-              For meals
-        login and registration
-        authentication
-        password reset
-        User profile
-        User settings
-
-
+              For users >> Zainab // Not started
+              For meals >> Aml , Malak >>  2/1/2025 // Not started
+        login and registration >> Zainab // Not started
+        authentication >> Zainab // Not started
+        password reset >> Zainab // Not started
+        Testing >>  Aml , Malak 5/1/2025 // Not started
+        Deployment >> Aml , Malak 6/1/2025 // Not started
+        Video >> Aml , Malak 7/1/2025 #  M 
+        Final Presentation >> Aml , Malak 8/1/2025 #  M
 
 ## The project will be implemented using the following technologies:
 
