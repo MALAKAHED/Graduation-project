@@ -1,0 +1,11 @@
+<h1>Meals List</h1>
+<ul>
+    {% for meal in meals %}
+        <li>
+            {{ meal.name }} - {{ meal.meal_type }} - {{ meal.calories }} calories
+            <a href="{% url 'update_meal' meal.pk %}">Edit</a>
+            <a href="{% url 'delete_meal' meal.pk %}">Delete</a>
+        </li>
+    {% endfor %}
+</ul>
+<a href="{% url 'add_meal' %}">Add New Meal</a>
